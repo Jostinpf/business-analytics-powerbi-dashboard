@@ -18,7 +18,7 @@ Durante el análisis, se identificó que **México aporta el 16.51% del margen t
 
 ## 🖼️ Vista previa del Dashboard
 
-![Vista previa del dashboard](./Preview Super Store.jpg)
+![Vista previa del dashboard](./Preview_SuperStore.jpg)
 
 ## 📂 Archivo
 - [➡️ Descargar el Dashboard aquí](https://github.com/Jostinpf/business-analytics-powerbi-dashboard/blob/main/Dashboard%20-%20Clase%20-%20Superstore.pbix)
