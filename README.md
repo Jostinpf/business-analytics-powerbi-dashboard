@@ -38,5 +38,5 @@ Mostrar habilidades en **análisis de datos, visualización y presentación de r
 
 **Jostin Portuguez**  
 Supply Chain| Analista en formación | Apasionado por el análisis de datos  
-📧 [jostin.portuguez@outlook.com](mailto:jostin.portuguez@outlook.com)  
-✉️ [Jostin Portuguez](https://www.linkedin.com/in/jostin-portuguez-596618324)
+📧 Correo electrónico [jostin.portuguez@outlook.com](mailto:jostin.portuguez@outlook.com)  
+✉️ LinkedIn: [Jostin Portuguez](https://www.linkedin.com/in/jostin-portuguez-596618324)
