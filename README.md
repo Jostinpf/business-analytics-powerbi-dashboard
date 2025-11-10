@@ -1,17 +1,33 @@
-# business-analytics-powerbi-dashboard
-Análisis de márgenes de ganancia por país creado en Power BI como parte del curso de Business Analytics.
-# 📊 Dashboard de Business Analytics — Power BI
+# 📊 Proyecto de Business Analytics — Dashboard en Power BI
 
-Este proyecto fue creado como parte de un curso de **Business Analytics**.  
-Analiza el **margen de ganancia por país**, identificando que **México aporta el 16.51% del margen total**.
+Este proyecto fue desarrollado como parte de mi formación en **Business Analytics**.  
+El objetivo es analizar los **márgenes de ganancia por país**, identificando oportunidades de mejora y tendencias clave en el desempeño de cada región.  
 
-## 🧠 Tecnologías utilizadas
-- Power BI Desktop (gratuito)
-- Excel (fuente de datos)
-- Visualizaciones: tablas, filtros y gráficos apilados
-
-## 📂 Archivo
-- `analisis_margen_paises.pbix` — archivo del dashboard completo.
+Durante el análisis, se identificó que **México aporta el 16.51% del margen total**, siendo el país con mayor contribución al beneficio global.
 
 ---
-✉️ Autor: [Jostin Portuguez](www.linkedin.com/in/jostin-portuguez-596618324)
+
+## 🧠 Tecnologías y herramientas utilizadas
+
+- **Power BI Desktop** → para el diseño y modelado de datos  
+- **Microsoft Excel** → fuente principal de datos  
+- **DAX** → para cálculos de métricas personalizadas  
+-  **Visualizaciones**: gráficos de columnas apiladas (Stacked Bar/Column Chart), tablas, filtros y tarjetas de resumen.
+
+## 📂 Archivo
+- `Dashboard - Clase - Superstore.pbix` — archivo del dashboard completo.
+
+---
+
+## 🚀 Objetivo del proyecto
+
+Mostrar habilidades en **análisis de datos, visualización y presentación de resultados** con Power BI, orientadas a la toma de decisiones empresariales.
+
+---
+
+## 👤 Autor
+
+**Jostin Portuguez**  
+Supply Chain| Analista en formación | Apasionado por el análisis de datos  
+📧 [jostin.portuguez@outlook.com](mailto:jostin.portuguez@outlook.com)  
+✉️ [Jostin Portuguez](www.linkedin.com/in/jostin-portuguez-596618324)
