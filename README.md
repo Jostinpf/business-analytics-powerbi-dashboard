@@ -15,7 +15,7 @@ Durante el análisis, se identificó que **México aporta el 16.51% del margen t
 -  **Visualizaciones**: gráficos de columnas apiladas (Stacked Bar/Column Chart), tablas, filtros y tarjetas de resumen.
 
 ## 📂 Archivo
-- [➡️ Descargar aquí](https://github.com/jostinportuguez/business-analytics-powerbi-dashboard/blob/main/dashboard%20clase%20SuperStore.pbix)
+- [➡️ Descargar el Dashboard aquí](https://github.com/Jostinpf/business-analytics-powerbi-dashboard/blob/main/Dashboard%20-%20Clase%20-%20Superstore.pbix)
 
 ---
 
